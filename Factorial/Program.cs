@@ -15,6 +15,7 @@ namespace Factorial
             }
 
             Console.WriteLine("The Factrial of number {0} is {1}", num, factorial);
+            Console.WriteLine("This program ends here..");
         }
     }
 }
