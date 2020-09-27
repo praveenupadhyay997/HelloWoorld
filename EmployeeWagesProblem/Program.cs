@@ -15,7 +15,8 @@ namespace EmployeeWagesProblem
 
         static void Main(string[] args)
         {
-            Display();     
+            Display();
+            
         }
     }
 }
